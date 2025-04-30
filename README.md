@@ -1,4 +1,5 @@
-# Client Strategy Engagement: Scaling Operations with Data-Driven Process Design
+# Client Strategy Engagement: Scaling Operations with Data-Driven Process Design  
+**From Chaos to Clarity**
 
 This repository showcases a simulated consulting engagement modeled on real-world strategy challenges faced by professional services firms undergoing rapid growth. It is designed to demonstrate practical expertise across business analysis, project management, and data-driven storytelling — using tools like Excel, Power BI, and SQL to bridge strategy and execution.
 
