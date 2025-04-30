@@ -23,5 +23,19 @@ This strategic engagement is designed to:
 - Build a mock dataset to simulate operational performance metrics
 - Deliver a data-backed roadmap to drive scalable, repeatable operational excellence
 
-##
+## 🎯 Engagement Objectives
+1. **Establish Operational Clarity**  
+   Introduce standardized role accountability through a RACI matrix and current-state process mapping.
 
+2. **Diagnose Root Causes**  
+   Use tools like the 5 Whys and stakeholder analysis to uncover systemic issues contributing to inefficiency.
+
+3. **Model the Opportunity**  
+   Build mock datasets to highlight bottlenecks, inefficiencies, or missed opportunities.
+
+4. **Deliver Strategic Insights**  
+   Present findings through a concise, executive-ready summary using Power BI visuals, Excel analysis, and strategic recommendations.
+
+---
+
+*All content and data in this engagement are fictional and created for educational and portfolio development purposes.*
