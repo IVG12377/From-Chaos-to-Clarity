@@ -71,4 +71,4 @@ The client has no unified framework for assigning ownership of processes or meas
 ├── /scripts/                  # SQL queries or automation scripts (optional)
 ├── /notebooks/                # Jupyter notebooks for analytics (optional)
 └── README.md
-![Client Engagement Tracker – From Chaos to Clarity](docs/project-cover.png)
+
