@@ -24,6 +24,18 @@ The client has no unified framework for assigning ownership of processes or meas
 
 ---
 
+## 📂 Quick Navigation
+
+- [01_Case_Introduction](./01_Case_Introduction/)
+- [02_Stakeholder_Alignment](./02_Stakeholder_Alignment/)
+- [03_Project_Plan](./03_Project_Plan/)
+- [04_Data_Analysis](./04_Data_Analysis/)
+- [05_Strategy_Design](./05_Strategy_Design/)
+- [06_Presentation](./06_Presentation/)
+- [07_Internal_Notes](./07_Internal_Notes/)
+
+---
+
 ## 📁 Project Structure
 
 | Folder | Description |
@@ -32,8 +44,8 @@ The client has no unified framework for assigning ownership of processes or meas
 | `02_Stakeholder_Alignment/` | Stakeholder mapping, personas, communication plan, and RACI |
 | `03_Project_Plan/` | PMP deliverables: WBS, Gantt chart, risk register, and communication tracking |
 | `04_Data_Analysis/` | Exploratory data analysis in Jupyter notebooks and Excel, leading to business insights |
-| `05_Strategy_Design/` | Strategic frameworks (e.g., SWOT, Porter’s Five Forces) and recommendation logic |
-| `06_Presentation/` | Final client-facing deliverables including deck, executive summary, and one-pager |
+| `05_Strategy_Design/` | Strategic frameworks (e.g., SWOT, Porter's Five Forces) and recommendation logic |
+| `06_Presentation/` | Final client-facing deliverables including deck, executive summary, and 1-pager |
 | `07_Internal_Notes/` | Working drafts, brainstorms, prep notes, and internal research files |
 
 ---
