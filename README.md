@@ -1,6 +1,6 @@
 # From Chaos to Clarity: A Strategy & Data Analytics Consulting Case Study
 
-Welcome to **From Chaos to Clarity**, a self-directed consulting simulation inspired by a real-world interview scenario with SEI (Systems Evolution Inc). This project demonstrates how structure, data, and strategy can transform ambiguity into actionable insights and client-ready recommendations.
+Welcome to **From Chaos to Clarity**, a self-directed consulting simulation designed to demonstrate how structure, data, and strategy can transform ambiguity into actionable insights and client-ready recommendations. This project mirrors real-world consulting workflows and delivers business value through clarity, alignment, and data-informed decision-making.
 
 ---
 
@@ -34,7 +34,7 @@ The client has no unified framework for assigning ownership of processes or meas
 | `04_Data_Analysis/` | Exploratory data analysis in Jupyter notebooks and Excel, leading to business insights |
 | `05_Strategy_Design/` | Strategic frameworks (e.g., SWOT, Porter’s Five Forces) and recommendation logic |
 | `06_Presentation/` | Final client-facing deliverables including deck, executive summary, and one-pager |
-| `07_Internal_Notes/` | Working drafts, brainstorms, interview prep notes, and internal research files |
+| `07_Internal_Notes/` | Working drafts, brainstorms, prep notes, and internal research files |
 
 ---
 
@@ -71,7 +71,7 @@ The client has no unified framework for assigning ownership of processes or meas
 
 ## 💡 Inspiration
 
-This project was inspired by a real consulting interview process and serves as both a portfolio piece and a learning journey. It blends data analytics, stakeholder strategy, and structured delivery to reflect the kind of work done by Big 4, boutique consulting firms, and corporate strategy teams.
+This project simulates a real-world consulting engagement and serves as both a portfolio piece and a learning journey. It blends data analytics, stakeholder strategy, and structured delivery to reflect the kind of work done by Big 4, boutique consulting firms, and corporate strategy teams.
 
 ---
 
