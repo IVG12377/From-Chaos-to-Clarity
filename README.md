@@ -14,13 +14,14 @@ Welcome to **From Chaos to Clarity**, a self-directed consulting simulation buil
 
 ---
 
-## 🧭 Engagement Flow
+## 🧩 Client Case Overview
 
 ### Client Context
 The client is a mid-sized professional services firm seeking to scale its delivery operations while maintaining excellence in service quality and employee engagement. Recent growth has outpaced their internal processes, resulting in operational ambiguity, inconsistent decision-making, and unclear accountability across teams.
 
 ### Business Problem
 The client has no unified framework for assigning ownership of processes or measuring performance across delivery teams. Strategic priorities are misaligned with day-to-day execution, leading to inefficiencies and lost opportunities. Leadership is looking for a solution that can diagnose current-state challenges and provide a roadmap for scalable operational improvement.
+
 
 ---
 
