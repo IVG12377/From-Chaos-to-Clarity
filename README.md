@@ -1,16 +1,16 @@
 # From Chaos to Clarity: A Strategy & Data Analytics Consulting Case Study
 
-Welcome to **From Chaos to Clarity**, a self-directed consulting simulation built from a real-world interview scenario with SEI (Systems Evolution Inc). This project demonstrates how structure, data, and strategy can transform ambiguity into actionable insights and client-ready recommendations.
+Welcome to **From Chaos to Clarity**, a self-directed consulting simulation inspired by a real-world interview scenario with SEI (Systems Evolution Inc). This project demonstrates how structure, data, and strategy can transform ambiguity into actionable insights and client-ready recommendations.
 
 ---
 
 ## 🎯 Project Objectives
 
-- Translate a vague business challenge into a structured consulting engagement
-- Apply project management (PMP) frameworks to scope, plan, and manage work
-- Perform business-relevant data analysis to support decision-making
-- Develop strategic insights using consulting methodologies
-- Deliver professional-grade, client-facing outputs
+- Translate a vague business challenge into a structured consulting engagement  
+- Apply project management (PMP) frameworks to scope, plan, and manage work  
+- Perform business-relevant data analysis to support decision-making  
+- Develop strategic insights using consulting methodologies  
+- Deliver professional-grade, client-facing outputs  
 
 ---
 
@@ -21,10 +21,6 @@ The client is a mid-sized professional services firm seeking to scale its delive
 
 ### Business Problem
 The client has no unified framework for assigning ownership of processes or measuring performance across delivery teams. Strategic priorities are misaligned with day-to-day execution, leading to inefficiencies and lost opportunities. Leadership is looking for a solution that can diagnose current-state challenges and provide a roadmap for scalable operational improvement.
-
-
----
-
 
 ---
 
@@ -53,6 +49,15 @@ The client has no unified framework for assigning ownership of processes or meas
 
 ---
 
+## 🛠 Tools & Technologies
+
+- Python (Jupyter Notebook, pandas, matplotlib/seaborn)  
+- Microsoft Excel & PowerPoint  
+- Project Management Templates (RACI, WBS, Risk Register)  
+- Strategy Frameworks (SWOT, Porter's Five Forces)  
+
+---
+
 ## 🚀 Status Tracker
 
 ✅ Project Initialized  
@@ -70,4 +75,4 @@ This project was inspired by a real consulting interview process and serves as b
 
 ---
 
-*Built by Ivana Gibson | PMP | Strategy Consultant | Data Analytics Learner*
+*Created by **Ivana Gibson** — PMP-Certified Strategy Consultant & Aspiring Data Analyst*
