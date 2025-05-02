@@ -1,11 +1,20 @@
-# Client Strategy Engagement: Scaling Operations with Data-Driven Process Design  
-**From Chaos to Clarity**
+# From Chaos to Clarity: A Strategy & Data Analytics Consulting Case Study
 
-This repository showcases a simulated consulting engagement modeled on real-world strategy challenges faced by professional services firms undergoing rapid growth. It is designed to demonstrate practical expertise across business analysis, project management, and data-driven storytelling — using tools like Excel, Power BI, and SQL to bridge strategy and execution.
+Welcome to **From Chaos to Clarity**, a self-directed consulting simulation built from a real-world interview scenario with SEI (Systems Evolution Inc). This project demonstrates how structure, data, and strategy can transform ambiguity into actionable insights and client-ready recommendations.
 
 ---
 
-## 🧭 Project Overview
+## 🎯 Project Objectives
+
+- Translate a vague business challenge into a structured consulting engagement
+- Apply project management (PMP) frameworks to scope, plan, and manage work
+- Perform business-relevant data analysis to support decision-making
+- Develop strategic insights using consulting methodologies
+- Deliver professional-grade, client-facing outputs
+
+---
+
+## 🧭 Engagement Flow
 
 ### Client Context
 The client is a mid-sized professional services firm seeking to scale its delivery operations while maintaining excellence in service quality and employee engagement. Recent growth has outpaced their internal processes, resulting in operational ambiguity, inconsistent decision-making, and unclear accountability across teams.
@@ -15,60 +24,49 @@ The client has no unified framework for assigning ownership of processes or meas
 
 ---
 
-## 🎯 Project Objectives
-
-- **Diagnose root causes** of inefficiencies using qualitative and quantitative frameworks (e.g., 5 Whys, stakeholder analysis).
-- **Clarify ownership and accountability** through RACI modeling and process mapping.
-- **Use data analysis** to simulate performance baselines and identify optimization opportunities.
-- **Design a scalable operating model** that aligns people, process, and priorities.
-- **Deliver insights and recommendations** in executive-friendly formats.
 
 ---
 
-## 📦 Deliverables
+## 📁 Project Structure
 
-- 📄 `problem_statement.md` — Engagement summary, client goals, and scope.
-- 📊 `raci_matrix.xlsx` — Role clarity through a responsibility matrix.
-- 📈 `mock_data.xlsx` — Simulated operational metrics for performance analysis.
-- 🗺️ `stakeholder_map.pdf` — Visualization of influence and impact across teams.
-- 🧩 `strategic_summary.pptx` — Executive-style presentation of findings and recommendations.
-
----
-
-## 🔧 Tools & Techniques
-
-- **Excel** – Data modeling, pivot tables, and operational dashboards
-- **Power BI** – Interactive visualizations (planned)
-- **SQL** – Data querying (future enhancement)
-- **Markdown & GitHub** – Documentation and version control
-- **PMP Tools** – Gantt charts, RACI matrix, stakeholder mapping
-- **Consulting Frameworks** – 5 Whys, Current vs. Future State, Root Cause Trees
+| Folder | Description |
+|--------|-------------|
+| `01_Case_Introduction/` | Overview of the client’s context, business challenges, and objectives |
+| `02_Stakeholder_Alignment/` | Stakeholder mapping, personas, communication plan, and RACI |
+| `03_Project_Plan/` | PMP deliverables: WBS, Gantt chart, risk register, and communication tracking |
+| `04_Data_Analysis/` | Exploratory data analysis in Jupyter notebooks and Excel, leading to business insights |
+| `05_Strategy_Design/` | Strategic frameworks (e.g., SWOT, Porter’s Five Forces) and recommendation logic |
+| `06_Presentation/` | Final client-facing deliverables including deck, executive summary, and one-pager |
+| `07_Internal_Notes/` | Working drafts, brainstorms, interview prep notes, and internal research files |
 
 ---
 
-## 🧠 Key Skills Demonstrated
+## 🧠 Core Skills Demonstrated
 
-- Strategic Thinking & Structured Problem Solving  
-- Operational Design & Change Management  
-- Data Interpretation & Storytelling  
-- Stakeholder Communication & Executive Reporting  
-- Project Planning & Governance Methodologies
+- Strategic Problem Framing  
+- Stakeholder Alignment & Communication  
+- PMP-Based Project Structuring (RACI, WBS, Risk Planning)  
+- Data Cleaning, Exploration, and Visualization  
+- Executive Storytelling & Slide Design  
+- Framework-Based Strategic Thinking  
 
 ---
 
-## 📁 Folder Structure
+## 🚀 Status Tracker
 
-```bash
-├── /client_case/              # Core case study files and outputs
-│   ├── problem_statement.md
-│   ├── raci_matrix.xlsx
-│   ├── mock_data.xlsx
-│   ├── stakeholder_map.pdf
-│   └── strategic_summary.pptx
+✅ Project Initialized  
+✅ Folder Structure Aligned  
+🔲 Data Analysis Completed  
+🔲 Strategic Design Finalized  
+🔲 Final Deck Delivered  
+🔲 GitHub Project Board Screenshot Uploaded  
 
-├── /data/                     # Supporting or raw datasets
-├── /docs/                     # Background research or templates
-├── /scripts/                  # SQL queries or automation scripts (optional)
-├── /notebooks/                # Jupyter notebooks for analytics (optional)
-└── README.md
+---
 
+## 💡 Inspiration
+
+This project was inspired by a real consulting interview process and serves as both a portfolio piece and a learning journey. It blends data analytics, stakeholder strategy, and structured delivery to reflect the kind of work done by Big 4, boutique consulting firms, and corporate strategy teams.
+
+---
+
+*Built by Ivana Gibson | PMP | Strategy Consultant | Data Analytics Learner*
