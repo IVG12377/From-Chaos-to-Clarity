@@ -1,52 +1,65 @@
-# 04 Data Analysis
+# 📊 04_Data_Analysis — Exploring Attrition Drivers
 
-This folder contains the exploratory data analysis (EDA) and data visualizations used to uncover employee attrition drivers and validate strategic hypotheses.
-
----
-
-## 📌 Purpose
-
-To analyze trends in performance, satisfaction, and attrition using real data and translate insights into actionable recommendations.
+This folder contains the exploratory data analysis (EDA) and visualization work for uncovering drivers of employee attrition using a fictional HR dataset. The insights generated here support the strategic recommendations presented later in the engagement.
 
 ---
 
-## 📄 Contents
+## 🎯 Purpose & Strategic Context
 
-- `exploration.ipynb` – Jupyter Notebook conducting EDA, correlation, and predictive modeling.
-- `attrition_by_role_department.png` – Visualization of attrition segmented by job role and department.
-- `mock_data.xlsx` – Raw HR dataset used for analysis (referenced externally).
-- Summary markdown cells outlining key insights and strategic implications.
+Employee attrition poses a major risk to operational continuity and talent retention. The objective of this analysis was to:
 
----
+- Validate initial hypotheses around attrition drivers
+- Surface correlations between satisfaction, tenure, and turnover
+- Segment findings by department and role to shape tailored strategies
 
-## 🔍 Key Analyses Conducted
-
-- Univariate and bivariate visualizations (e.g., Attrition vs. OverTime, Salary, Role)
-- Correlation matrix of numeric fields
-- Logistic regression model predicting attrition likelihood
-- Segmented attrition analysis by job role and department
+By analyzing real-world-style data, we can translate patterns into meaningful action for leadership, HR, and operations teams.
 
 ---
 
-## 🎯 Strategic Insights
+## 🧪 Analysis Conducted
 
-- Sales Representatives and Lab Technicians exhibit the highest attrition rates.
-- Predictive models confirm OverTime, Satisfaction, and Years at Company as key attrition predictors.
-- Visualization outputs support targeted retention strategies by department and role.
-
----
-
-## 📸 Visual Output
-
-- `attrition_by_role_department.png` saved locally and referenced in summary documentation.
+- **Univariate & Bivariate EDA**: Attrition vs. OverTime, Job Satisfaction, Tenure, etc.
+- **Correlation Matrix**: Numeric features examined for interdependence
+- **Predictive Modeling**: Logistic regression used to classify likelihood of attrition
+- **Segmentation**: Attrition rates analyzed by department and job role
 
 ---
 
-## 📍 Next Steps
+## 🔍 Key Findings
 
-- Expand analysis to include feature importance using advanced modeling (optional)
-- Connect findings to stakeholder personas and strategy redesign in Folder 5
+- 📉 **Sales Representatives** have the highest attrition rate (~40%), followed by Lab Technicians and HR professionals (~24%).
+- 🔄 Predictive modeling confirmed **OverTime**, **Years at Company**, and **Job Satisfaction** as top attrition indicators.
+- 🧑‍💼 Leadership roles (e.g., Managers, Directors) showed strong retention — potential benchmarks for broader engagement strategy.
+- 🧩 Roles with no attrition (e.g., HR Managers) may reflect lower volume or successful internal support structures.
 
 ---
 
-> 📢 **Note:** All data used is fictional and for demonstration purposes only.
+## 📁 Included Files
+
+| File | Description |
+|------|-------------|
+| `exploration.ipynb` | Jupyter Notebook with full analysis, visuals, and strategic summary |
+| `attrition_by_role_department.png` | Key chart showing attrition rates by job role and department |
+| `mock_data.xlsx` | Fictional HR dataset with engagement and performance fields |
+| `exploration_plan.md` | Outlines the structure and business questions for the analysis |
+| `data_overview.md` | Summary of dataset contents and business application |
+
+---
+
+## 📌 Strategic Implications
+
+- High-risk roles (Sales, Lab Techs) should be prioritized for retention interventions.
+- Predictive modeling enables early identification of at-risk employees.
+- Low-attrition segments offer best practices that can be replicated across the org.
+
+---
+
+## 🧠 Next Steps
+
+- Connect key findings to stakeholder personas and transformation plan in Folder 05
+- Expand modeling with SHAP values, feature importance, or dashboards (optional)
+- Integrate visuals into final story-driven presentation deck
+
+---
+
+> 🔐 **Disclaimer**: All data used here is synthetic and meant solely for demonstration and educational purposes.
