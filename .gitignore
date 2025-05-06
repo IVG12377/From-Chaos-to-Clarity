@@ -3,7 +3,7 @@
 
 # Data files (ignore large or sensitive ones)
 *.csv
-*.xlsx
+#*.xlsx
 *.xls
 
 # Microsoft Office files (optional: ignore internal drafts)
