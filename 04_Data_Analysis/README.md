@@ -1,12 +1,12 @@
 # 04 Data Analysis
 
-This folder contains the exploratory data analysis (EDA) and data visualizations used to uncover employee attrition drivers and validate strategic hypotheses.
+This folder contains exploratory data analysis (EDA) used to uncover drivers of employee attrition and inform strategic recommendations.
 
 ---
 
 ## 📌 Purpose
 
-To analyze trends in performance, satisfaction, and attrition using real data and translate insights into actionable recommendations.
+To analyze trends in performance, satisfaction, and attrition using real data, and translate those insights into actionable strategy.
 
 ---
 
@@ -14,8 +14,8 @@ To analyze trends in performance, satisfaction, and attrition using real data an
 
 - `exploration.ipynb` – Jupyter Notebook conducting EDA, correlation, and predictive modeling.
 - `attrition_by_role_department.png` – Visualization of attrition segmented by job role and department.
-- `mock_data.xlsx` – Raw HR dataset used for analysis (referenced externally).
-- Summary markdown cells outlining key insights and strategic implications.
+- `mock_data.xlsx` – Raw HR dataset used for analysis (fictional).
+- Summary markdown cells outlining insights and strategic implications.
 
 ---
 
@@ -28,25 +28,29 @@ To analyze trends in performance, satisfaction, and attrition using real data an
 
 ---
 
-## 🎯 Strategic Insights
+## 📸 Key Visualization
 
-- Sales Representatives and Lab Technicians exhibit the highest attrition rates.
-- Predictive models confirm OverTime, Satisfaction, and Years at Company as key attrition predictors.
-- Visualization outputs support targeted retention strategies by department and role.
+![Attrition Rate by Role and Department](./attrition_by_role_department.png)
 
----
-
-## 📸 Visual Output
-
-- `attrition_by_role_department.png` saved locally and referenced in summary documentation.
+This chart highlights employee attrition trends segmented by job role and department.
 
 ---
 
-## 📍 Next Steps
+## 🎯 Strategic Findings
 
-- Expand analysis to include feature importance using advanced modeling (optional)
-- Connect findings to stakeholder personas and strategy redesign in Folder 5
+- **Sales Representatives** and **Lab Technicians** exhibit the highest attrition rates (~24–40%).
+- **HR Professionals** also show elevated attrition, suggesting department-specific challenges.
+- Roles like **Managers** and **Research Directors** show notably low attrition, pointing to stronger engagement or support systems.
+- **Predictive modeling** confirms that **OverTime**, **Job Satisfaction**, and **Years at Company** are top attrition predictors.
 
 ---
 
-> 📢 **Note:** All data used is fictional and for demonstration purposes only.
+## 💡 Strategic Implications
+
+- Prioritize retention efforts for high-risk roles such as Sales and Lab Technicians.
+- Investigate compensation, workload, and management practices in departments with elevated attrition.
+- Leverage insights from low-attrition roles to replicate best practices across teams.
+
+---
+
+> 📢 **Note:** This dataset is entirely fictional and used solely for demonstration purposes.
