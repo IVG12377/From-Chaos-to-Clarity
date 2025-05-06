@@ -1,24 +1,16 @@
 # Project Timeline
 
-This timeline provides a high-level view of the key phases and deliverables in the engagement. It follows a 6-week consulting sprint model and aligns with the WBS.
+This timeline reflects a 6-week sprint structured around three key phases.
 
----
+| Week | Focus Area                  | Key Activities                                         |
+|------|-----------------------------|--------------------------------------------------------|
+| 1    | Discovery Kickoff           | Project kickoff, early interviews, current-state review |
+| 2    | Current-State Analysis      | Stakeholder interviews, documentation analysis         |
+| 3    | Synthesis & Initial Design  | Early hypothesis refinement, RACI framework draft      |
+| 4    | Operating Model Design      | Co-design sessions, mid-point alignment                |
+| 5    | Finalization                | Refined model, executive-level review prep             |
+| 6    | Presentation & Close-Out    | Final presentation, transition planning                |
 
-## 📆 Timeline Overview (6 Weeks)
-
-| Week | Focus Area             | Key Deliverables                                |
-|------|------------------------|--------------------------------------------------|
-| 1    | Kickoff & Framing      | Business problem statement, scope, success criteria |
-| 2    | Stakeholder Discovery  | Stakeholder interviews, initial analysis         |
-| 3    | Current-State Assessment | Operating model analysis, early insights        |
-| 4    | Strategy Design        | RACI, strategic frameworks, recommendation draft |
-| 5    | Review & Align         | Stakeholder readouts, iterate final materials   |
-| 6    | Delivery               | Executive summary, slide deck, final presentation |
-
----
-
-## 🧠 Notes
-
-- Timeline is flexible based on stakeholder availability and data access
-- Weeks may overlap if discovery and design run concurrently
-- Major review milestones occur at the end of weeks 3 and 5
+**Touchpoints**:
+- Executive sponsor sync: Week 1, Week 5, Week 6  
+- Review milestones: End of Week 3 and Week 5

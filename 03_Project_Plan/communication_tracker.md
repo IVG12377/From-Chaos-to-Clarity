@@ -1,22 +1,11 @@
 # Communication Tracker
 
-This tracker ensures timely, consistent communication with all key stakeholders throughout the engagement.
+This tracker is reviewed weekly by the project lead and updated after each stakeholder checkpoint.
 
----
-
-## 📬 Communication Matrix
-
-| Audience           | Update Type               | Frequency       | Channel        | Owner         | Notes                          |
-|--------------------|---------------------------|------------------|----------------|----------------|--------------------------------|
-| Executive Sponsor  | Status Summary & Risks    | Biweekly         | Email / PDF Deck | Project Lead   | Use executive briefing format |
-| PMO / Ops Leads    | WIP Updates & Inputs      | Weekly           | Zoom / Smartsheet | Consultant     | Include action item tracker   |
-| Field Teams        | Awareness + Updates       | Biweekly         | Newsletter / Intranet | HR / Comms     | Use plain language & visuals  |
-| All Stakeholders   | Final Presentation        | Once (Week 6)    | Zoom / PPT Deck  | Project Lead   | Dry-run with sponsor in Week 5 |
-
----
-
-## ✅ Tracker Rules
-
-- Owned and maintained by the project lead
-- Reviewed weekly during internal team syncs
-- Escalations flagged to executive sponsor as needed
+| Audience           | Format          | Frequency | Owner           | Notes                                 |
+|-------------------|-----------------|-----------|------------------|---------------------------------------|
+| Executive Sponsor | 1:1 Touchpoint  | Weekly    | Lead Consultant | Align on key milestones               |
+| PMO               | Working Session | Weekly    | Analyst         | Co-design tools, clarify accountability |
+| Product Team      | Drop-in Review  | Biweekly  | Consultant      | Cross-functional alignment            |
+| Delivery Teams    | Email Update    | Weekly    | Consultant      | Transparency + progress checkpoint    |
+| HR Business Partner| Sync Meeting   | As needed | Consultant      | Coordinate rollout                    |

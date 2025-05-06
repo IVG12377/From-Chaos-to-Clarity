@@ -1,15 +1,15 @@
 # 03 Project Plan
 
-This folder contains core project management tools that structure the engagement from kickoff to delivery.
+This folder provides the working structure for planning and managing the engagement.
 
 ## 📌 Purpose
-To define workstreams, track timelines, mitigate risks, and ensure accountability.
+To establish structure, cadence, and accountability for successful delivery of the consulting engagement.
 
 ## 📄 Contents
-- Work Breakdown Structure (WBS)
-- Project timeline (e.g., Gantt chart)
-- Risk register and mitigation plan
-- Communication tracker
+- [Work Breakdown Structure (WBS)](wbs.md) — breaks down phases and tasks
+- [Project Timeline](project_timeline.md) — week-by-week deliverable schedule
+- [Risk Register](risk_register.md) — risks, impact levels, and mitigations
+- [Communication Tracker](communication_tracker.md) — stakeholder comms plan
 
 ## 💡 Why It Matters
-Structured planning enables transparency, progress tracking, and predictable delivery in high-stakes consulting environments.
+A defined project plan ensures clear responsibilities, alignment with stakeholders, and timely delivery of value.
