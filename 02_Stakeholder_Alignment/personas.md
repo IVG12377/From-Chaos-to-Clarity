@@ -1,54 +1,19 @@
 # Stakeholder Personas
 
-*Disclaimer: All names, roles, and personas described in this document are entirely fictional and created for the purposes of this consulting case simulation. Any resemblance to real persons or organizations is purely coincidental.*
+## 👤 Jordan Rivera – Executive Sponsor _(Stakeholder Type: Executive)_
+Jordan drives the delivery agenda and is the formal sponsor of this initiative. Focused on growth and scalability, Jordan cares about standardization, ownership clarity, and repeatability across teams.
 
-This document outlines key personas involved in the engagement. These summaries humanize stakeholders to help guide communication, influence strategies, and solution alignment.
----
+## 👤 Casey Lin – Director of PMO _(Stakeholder Type: Process Owner)_
+Casey is deeply involved in designing internal delivery systems and will likely take ownership of any new governance model. Very process-driven and detail-oriented.
 
-### 👤 Jordan Rivera – Executive Sponsor
+## 👤 Drew Patel – Engagement Manager _(Stakeholder Type: Influencer)_
+Drew leads teams on the ground and is well-respected across functions. Practical and execution-focused, Drew will be a key test case for whatever model is proposed.
 
-- **Title**: VP of Delivery Operations  
-- **Goals**: Scale delivery without sacrificing quality; executive alignment  
-- **Pain Points**: Lack of clarity in decision-making; inconsistent team performance  
-- **Communication Style**: Prefers dashboards and top-line summaries; needs data-backed insights  
-- **Engagement Tip**: Lead with ROI and implementation clarity
+## 👤 Taylor Chen – Product Strategy Lead _(Stakeholder Type: Cross-Functional Partner)_
+Taylor often feels left out of delivery planning. Their buy-in will be critical to avoid downstream silos. Likely to challenge overly rigid frameworks.
 
----
+## 👤 Chris Morales – HR Business Partner _(Stakeholder Type: Change Management Support)_
+Chris will help with rollout and training but has limited influence on operating model decisions. Very people-focused and cautious of friction.
 
-### 👤 Casey Lin – Process Owner
-
-- **Title**: Director of Project Management  
-- **Goals**: Streamline project execution; improve cross-team consistency  
-- **Pain Points**: Conflicting methodologies; unclear accountability  
-- **Communication Style**: Detail-oriented; values step-by-step plans  
-- **Engagement Tip**: Show tactical value of changes and process fit
-
----
-
-### 👤 Drew Patel – Operational Liaison
-
-- **Title**: Sr. Engagement Manager  
-- **Goals**: Deliver client projects efficiently; reduce internal blockers  
-- **Pain Points**: Bottlenecks due to unclear ownership; morale drop in field teams  
-- **Communication Style**: Practical; focused on impact over theory  
-- **Engagement Tip**: Provide tools to remove pain points quickly
-
----
-
-### 👤 Taylor Chen – Cross-Functional Partner
-
-- **Title**: Product Strategy Lead  
-- **Goals**: Align delivery capabilities with product roadmap  
-- **Pain Points**: Misaligned priorities across business units  
-- **Communication Style**: Analytical; systems thinker  
-- **Engagement Tip**: Show where delivery model unlocks innovation
-
----
-
-### 👤 Ava Thompson – Team Voice
-
-- **Title**: Junior Delivery Analyst  
-- **Goals**: Understand expectations; grow within the organization  
-- **Pain Points**: Vague handoffs; unclear performance measures  
-- **Communication Style**: Candid; needs clarity and support  
-- **Engagement Tip**: Use her feedback as signal for field adoption
+## 👤 Ava Thompson – Analyst _(Stakeholder Type: Team Voice)_
+Ava brings a front-line view of confusion around accountability and escalation. Great source of grassroots insights and early validation.

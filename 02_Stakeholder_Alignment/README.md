@@ -6,10 +6,10 @@ This folder documents stakeholder discovery, mapping, and communication strategy
 To identify key stakeholders, understand their roles and influence, and establish governance via tools like RACI and communication plans.
 
 ## 📄 Contents
-- Stakeholder map
-- RACI matrix
-- Personas and influence matrix
-- Communication strategy document
+- [Stakeholder Map](stakeholder_map.md)
+- [RACI Matrix](raci_matrix.md)
+- [Stakeholder Personas](personas.md)
+- [Communication Plan](communication_plan.md)
 
 ## 💡 Why It Matters
 Strong stakeholder alignment ensures clarity of roles, accelerates buy-in, and reduces resistance during implementation.

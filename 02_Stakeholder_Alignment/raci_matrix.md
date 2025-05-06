@@ -2,6 +2,8 @@
 
 This RACI chart outlines roles and responsibilities for key deliverables within the engagement. It ensures clarity across functions and reduces ambiguity in execution.
 
+> This RACI will be handed off as a governance artifact and used by the PMO to inform onboarding, clarify decision authority, and avoid duplication of effort.
+
 | Deliverable                           | Jordan (VP Ops) | Casey (PMO Dir) | Drew (Mgr) | Taylor (Product) | Chris (HR) | Ava (Analyst) |
 |--------------------------------------|-----------------|------------------|------------|------------------|------------|----------------|
 | Current State Assessment             | A               | R                | C          | C                | I          | C              |
