@@ -1,38 +1,49 @@
-# 📁 05_Strategy_Execution
+# 🚀 Strategy Execution Toolkit
 
-This folder synthesizes all prior project work into a final set of strategic actions. It contains the logic, design, and roadmap for executing targeted initiatives that address the problem outlined in Folder 1 and are supported by the insights from Folder 4.
-
----
-
-## 📌 Purpose
-
-To clearly articulate:
-- The key strategic recommendations for the client
-- The initiatives required to deliver those recommendations
-- The rationale behind each recommendation
-- How execution should be phased and governed
+This folder represents the bridge from strategy design to operational execution. It translates insights and recommendations into clear, accountable action — with timelines, ownership, and success metrics aligned for maximum impact.
 
 ---
 
-## 📂 Contents
+## 🎯 Purpose
+
+To define and activate the initiatives that address key attrition trends identified in the data analysis phase (Folder 4), and prepare for leadership communication (Folder 6).
+
+---
+
+## 🧭 Initiative Overview
+
+Each initiative directly responds to patterns revealed in employee attrition and satisfaction. They’re sequenced to balance urgency, feasibility, and strategic alignment — across HR, leadership, and operations.
+
+---
+
+## 📊 Strategy Execution Roadmap (Visual)
+
+This visual summarizes the transformation journey from initial chaos to strategic clarity.
+
+![Strategy Execution Roadmap](visual.png)
+
+---
+
+## 📄 Documents Included
 
 | File | Description |
 |------|-------------|
-| `recommendations_summary.md` | Top 3–5 strategic calls, framed for exec-level review |
-| `strategic_plan.md` | Initiative roadmap with scope, owners, milestones, and risks |
-| `presentation_outline.md` | Draft storyboard of the final pitch deck (see Folder 6) |
+| `recommendations_summary.md` | Summarizes the five most impactful retention strategies based on analysis |
+| `strategic_plan.md` | Outlines implementation steps for each initiative including timeline, success metrics, and ownership |
+| `presentation_outline.md` | Draft structure for how these strategies will be presented to executive leadership |
 
 ---
 
-## 🔗 Inputs
+## 🔁 Folder Linkages
 
-- Problem framing (Folder 1)
-- Stakeholder alignment (Folder 2)
-- Planning constraints (Folder 3)
-- Data-driven insights (Folder 4)
+- **Inputs from**: [04_Data_Analysis](../04_Data_Analysis) — attrition patterns and predictive modeling
+- **Outputs to**: [06_Presentation](../06_Presentation) — stakeholder-facing story and impact narrative
 
 ---
 
-## 🚀 Output
+## ✅ Outcomes
 
-This strategy execution layer becomes the foundation of the final stakeholder presentation in Folder 6.
+By completing this phase, we ensure:
+- A practical, action-oriented plan is in place
+- Leaders are aligned and prepared to execute
+- Communication materials reflect real analysis and recommendations
