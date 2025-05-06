@@ -1,38 +1,16 @@
 # Data Overview
 
-This file summarizes the dataset used to explore performance, engagement, and attrition trends within the client organization.
+## 📁 Dataset Source
+This dataset was sourced from IBM's publicly available HR Analytics Employee Attrition dataset, often used in EDA practice and modeling exercises.
 
----
+🧪 This is a simulated dataset and does not contain real employee data. It is ideal for exploration, hypothesis testing, and storytelling.
 
-## 📊 Dataset: mock_data.xlsx
+## 🔍 What It Includes
+- Demographics (Age, Gender, Marital Status)
+- Work Features (Job Role, Department, Overtime)
+- Satisfaction Metrics (Work/Life Balance, Job Satisfaction, Environment)
+- Compensation (Monthly Income, Stock Options)
+- Turnover Flag (Attrition = Yes/No)
 
-### 🧾 Description
-
-The dataset contains employee-level attributes including:
-- **Demographics**: Age, Gender, Education
-- **Employment Factors**: Job Role, Department, Years at Company, Salary
-- **Satisfaction & Engagement**: JobSatisfaction, EnvironmentSatisfaction, OverTime
-- **Attrition**: Whether the employee has left the company (Yes/No)
-
-### 📌 Business Purpose
-
-The data will be used to:
-- Identify factors contributing to **employee attrition**
-- Spot potential correlations with **performance and team engagement**
-- Guide the **operating model redesign** and talent strategy
-
----
-
-## 🧪 Initial Checks
-
-- Total Records: 1,470 (expected)
-- No sensitive PII included
-- Clean structure, tabular format, no merged cells
-
----
-
-## 🧠 Next Steps
-
-- Perform EDA (Exploratory Data Analysis) in Excel and/or Jupyter Notebook  
-- Visualize relationships between attrition and key features  
-- Develop summary insights to inform strategic recommendations
+## 🧠 Why It Matters
+This structured dataset enables exploration of how human capital decisions impact employee retention, and highlights the value of data-driven HR practices.
