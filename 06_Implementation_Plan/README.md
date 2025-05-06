@@ -1,38 +1,51 @@
-# 📁 Folder 06 – Implementation Plan
+# 🌀 From Chaos to Clarity: A Strategy & Data-Driven Consulting Case Study
 
-## 🎯 Title
-Translating Strategy into Action: Implementation Plan for Seamless Execution
+## 🎯 Project Overview
 
-## 🧭 Approach
-Following the strategic recommendations outlined in Folder 05, this phase ensures operational alignment, clear accountability, and timely delivery of key initiatives. We apply proven execution disciplines to drive momentum and maintain strategic integrity throughout rollout.
+This project simulates a real-world strategy consulting engagement from kickoff to implementation. It was designed to demonstrate structured problem solving, data analysis, stakeholder alignment, and change execution — all built with tools and methods used in professional consulting.
 
-## 📦 Deliverables
-- 📄 Workplan with timeline and key milestones (Gantt-style)
-- 📊 RACI Matrix: Roles and responsibilities by workstream
-- ⚠️ Risk Management Framework
-- 📈 Tracking & Progress Monitoring Template
+The project follows a clear methodology to move from ambiguity to actionable outcomes using strategy frameworks, analytics, and project management best practices.
 
-## 🧩 Methodology
-This phase is grounded in classic execution best practices:
-- **Milestone-Based Planning:** Structuring delivery into achievable, time-bound phases.
-- **Workstream Ownership:** Aligning responsibilities using a RACI model.
-- **Risk Mitigation:** Identifying top execution risks and proactive safeguards.
-- **Dashboarding:** Establishing tracking tools to monitor KPIs and project health.
+> 🔍 Ideal for showcasing consulting thinking, data analytics, and execution discipline.
 
-## 📋 Implementation Toolkit
+---
 
-| Artifact                      | Description                                           |
-|------------------------------|-------------------------------------------------------|
-| `Timeline_Workplan.pdf`      | Key milestones, critical path, and dependencies       |
-| `RACI_Matrix.xlsx`           | Role clarity by task and phase                        |
-| `Risk_Management_Grid.pdf`   | Top risks and mitigation strategies                   |
-| `Progress_Tracker_Template.xlsx` | Dashboard for KPI tracking and status updates     |
+## 🧰 Tools & Techniques Used
 
-## 🧠 Insights
-The implementation plan ensures recommendations move from slide decks to sustainable outcomes. It gives teams clarity on *what* to do, *when*, *by whom*, and *how success is measured*.
+- **Business Strategy & Problem Structuring**
+- **Stakeholder Analysis & Engagement Planning**
+- **Exploratory Data Analysis (EDA)** in Python
+- **Visualization** using Matplotlib
+- **RACI Matrix & Risk Planning**
+- **Project Implementation Planning**
+- **PMP-based methods** (timelines, ownership, risk mitigation)
 
-The plan also connects back to:
-- Stakeholder engagement plans (Folder 02)
-- Data-driven findings (Folder 04)
-- Strategic goals (Folder 05)
+---
+
+## 🗂️ Folder Structure
+
+| Folder | Title                        | Description |
+|--------|------------------------------|-------------|
+| 01     | Project Setup & Planning     | Framing the engagement, objectives, and initial approach |
+| 02     | Stakeholder Analysis         | Stakeholder mapping, RACI matrix, and communication strategy |
+| 03     | Problem Definition           | Translating ambiguity into a structured hypothesis-driven problem |
+| 04     | Data Analysis                | Exploratory data analysis using a mock attrition dataset |
+| 05     | Strategic Recommendations    | Key findings and data-driven recommendations |
+| 06     | Implementation Plan          | Timeline, RACI, risks, and progress-tracking toolkit |
+
+---
+
+## 📈 Outcome
+
+By completing this project, I aimed to:
+- Apply structured consulting methodologies to a realistic scenario
+- Sharpen data analytics and visualization skills
+- Create client-ready artifacts across all project phases
+- Publish a polished consulting case in a public GitHub format
+
+---
+
+## 📩 Contact
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ivanagibson) or reach out via email at ivana.gibson@gmail.com.
 
