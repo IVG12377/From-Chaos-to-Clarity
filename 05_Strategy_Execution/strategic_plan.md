@@ -6,6 +6,8 @@ This document outlines the implementation roadmap for each strategic initiative,
 
 ## 🗂️ Initiative 1: Targeted Retention Program for Sales Representatives
 
+**Linked Recommendation:** [See Recommendation 1](recommendations_summary.md#1-implement-a-targeted-retention-program-for-sales-representatives)
+
 - **Owner:** Head of Sales, HR Business Partner  
 - **Timeline:** Q2 – Q3 2025  
 - **Dependencies:** Updated compensation data, exit interview insights  
@@ -20,6 +22,8 @@ This document outlines the implementation roadmap for each strategic initiative,
 ---
 
 ## 🗂️ Initiative 2: Early Tenure Experience Overhaul
+
+**Linked Recommendation:** [See Recommendation 2](recommendations_summary.md#2-re-engineer-early-tenure-experience)
 
 - **Owner:** HR Talent Development  
 - **Timeline:** Q2 – Q4 2025  
@@ -36,6 +40,8 @@ This document outlines the implementation roadmap for each strategic initiative,
 
 ## 🗂️ Initiative 3: Manager Enablement Program
 
+**Linked Recommendation:** [See Recommendation 3](recommendations_summary.md#3-launch-a-manager-enablement-initiative)
+
 - **Owner:** Learning & Development  
 - **Timeline:** Q3 2025  
 - **Dependencies:** Pulse survey analytics, IT for dashboarding  
@@ -50,6 +56,8 @@ This document outlines the implementation roadmap for each strategic initiative,
 
 ## 🗂️ Initiative 4: Workload & OverTime Monitoring
 
+**Linked Recommendation:** [See Recommendation 4](recommendations_summary.md#4-monitor-workload-and-overtime-patterns-proactively)
+
 - **Owner:** HR Ops & Workforce Planning  
 - **Timeline:** Q2 launch with monthly monitoring  
 - **Dependencies:** IT support, time tracking data  
@@ -59,3 +67,19 @@ This document outlines the implementation roadmap for each strategic initiative,
 - **Success Metrics:**
   - >80% dashboard adoption
   - 10% decrease in high-OT employees
+
+---
+
+## 🗂️ Initiative 5: Attrition Risk Modeling
+
+**Linked Recommendation:** [See Recommendation 5](recommendations_summary.md#5-institutionalize-attrition-risk-modeling)
+
+- **Owner:** People Analytics  
+- **Timeline:** Q3 – Q4 2025  
+- **Dependencies:** Clean historical data, modeling resources  
+- **Milestones:**
+  - Build and validate model (Q3)
+  - Integrate into HR dashboard (Q4)
+- **Success Metrics:**
+  - ≥70% prediction accuracy on high-risk profiles
+  - Model used in quarterly talent reviews
