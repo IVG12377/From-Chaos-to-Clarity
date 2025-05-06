@@ -1,7 +1,5 @@
 # Stakeholder Map
 
-This map helps prioritize influence and communication. Those with high influence and high interest will be proactively engaged in co-design efforts to ensure alignment and buy-in.
-
 This stakeholder map outlines the key individuals and roles involved in the engagement. It is organized by functional area and includes their influence level, primary concerns, and engagement role.
 
 | Name               | Title / Role                   | Function         | Influence | Interest | Engagement Role |
@@ -19,3 +17,8 @@ This stakeholder map outlines the key individuals and roles involved in the enga
 - **Influence**: Level of decision-making power or authority
 - **Interest**: Degree to which the person is impacted by or invested in the engagement outcome
 - **Engagement Role**: Their primary function in this consulting initiative
+
+
+---
+**Disclaimer:**
+The individuals, roles, and personas referenced in this document are entirely fictional. Any resemblance to real persons, living or dead, is purely coincidental and used solely for illustrative purposes.
