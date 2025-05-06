@@ -4,6 +4,8 @@
 
 The client, a mid-sized professional services firm, is experiencing rapid growth that has outpaced its internal delivery operations. While demand has increased and teams have expanded, the organization lacks consistent frameworks for execution, ownership, and performance management.
 
+> "No one really knows who owns what anymore," said the Head of Delivery.
+
 ## 🚨 Symptoms of the Problem
 
 - Operational ambiguity across delivery teams  
@@ -22,6 +24,4 @@ Leadership is seeking a scalable, strategic solution that can:
 
 ## 📈 Why It Matters
 
-Without a clear operating model and role clarity, the firm risks stalled growth, employee disengagement, and erosion of its client service standards. Solving this problem is critical to protecting both operational integrity and future scalability.
-
----
+Without a clear operating model and role clarity, the firm risks stalled growth, employee disengagement, and erosion of its client service standards. Solving this problem is critical to protecting both operational integrity and future scalability—especially with plans to double headcount again in the next 12 months.

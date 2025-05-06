@@ -12,3 +12,5 @@
 - Client-facing process improvement
 - Legal or compliance audit
 - Implementation of software tools
+
+_These items were excluded to maintain focus and ensure feasibility within the 8-week timeline._
