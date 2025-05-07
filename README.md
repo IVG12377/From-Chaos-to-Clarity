@@ -87,4 +87,4 @@ This project simulates a real-world consulting engagement and serves as both a p
 
 ---
 
-*Created by **Ivana Gibson** — PMP-Certified Strategy Consultant & Aspiring Data Analyst*
+*Created by **Ivana Gibson** — PMP-Certified Strategy Consultant & Data Analyst*
