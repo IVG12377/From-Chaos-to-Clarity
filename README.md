@@ -85,10 +85,11 @@ The organization lacks a unified framework to define ownership, measure outcomes
 
 ## 🧭 Why It Matters
 
-This project simulates a real-world management consulting engagement — one that spans ambiguity, analytics, and delivery. It reflects the style of work found at Big 4 firms, SEI, and internal strategy teams.
+This project simulates a real-world management consulting engagement — one that spans ambiguity, analytics, and delivery. It reflects the style of work found in Big 4 consulting, boutique strategy firms, and internal transformation teams.
 
 The goal is not just to analyze — but to deliver clarity, alignment, and results.
 
 ---
 
 *Created by **Ivana Gibson** – PMP-Certified Strategy Consultant | [GitHub](https://github.com/IVG12377/From-Chaos-to-Clarity) | [LinkedIn](https://www.linkedin.com/in/ivanagibson/)*
+
